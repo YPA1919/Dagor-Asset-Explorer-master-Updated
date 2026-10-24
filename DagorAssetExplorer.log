@@ -1,0 +1,21 @@
+2026-10-24 15:26:20 extract Thunder\content\base\res\tanks\germ_kpz_70.grp <- D:\GAMES\Steam\steamapps\common\War
+2026-10-24 15:26:20 fatal error:
+Traceback (most recent call last):
+  File "__main__.py", line 176, in <module>
+  File "__main__.py", line 45, in runExtractCollision
+  File "parse\gameres.py", line 240, in __init__
+  File "util\terminable.py", line 261, in __init__
+  File "util\terminable.py", line 171, in __init__
+  File "<frozen genericpath>", line 86, in getsize
+FileNotFoundError: [WinError 2] 系统找不到指定的文件。: 'D:\\GAMES\\Steam\\steamapps\\common\\War'
+
+2026-10-24 15:29:19 extract kpz_70_collision <- D:\GAMES\Steam\steamapps\common\War Thunder\content\base\res\tanks\germ_kpz_70.grp
+2026-10-24 15:29:20 exported kpz_70_collision to D:\AI WorkSpace\WarThunder_tool\work\duplicate_compare_present\kpz
+2026-10-24 15:29:54 extract kpz_70_collision <- D:\GAMES\Steam\steamapps\common\War Thunder\content\base\res\tanks\germ_kpz_70.grp
+2026-10-24 15:29:54 exported kpz_70_collision to D:\AI WorkSpace\WarThunder_tool\work\duplicate_compare_absent\kpz
+2026-10-24 15:31:03 extract kpz_70_collision <- D:\GAMES\Steam\steamapps\common\War Thunder\content\base\res\tanks\germ_kpz_70.grp
+2026-10-24 15:31:03 exported kpz_70_collision to D:\AI WorkSpace\WarThunder_tool\work\duplicate_compare_absent\kpz
+2026-10-24 15:41:10 starting gui
+2026-10-24 15:41:10 class registry ok
+2026-10-24 15:41:11 application created
+2026-10-24 15:44:57 application exited with 0
