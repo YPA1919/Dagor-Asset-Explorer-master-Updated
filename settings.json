@@ -1,0 +1,16 @@
+{
+    "EXPORT_FOLDER": true,
+    "EXPORT_PREVIEW_TEX": false,
+    "EXTRACT_FOLDER": true,
+    "NO_TEX_EXPORT": false,
+    "OUTPUT_FOLDER": false,
+    "EXPORT_GAMEINFO": false,
+    "STUDIOMDL_PATH": "",
+    "GAMEINFO_PATH": "",
+    "STUDIOMDL_EXPORT_COLLISION": false,
+    "EXPORT_SMD": true,
+    "NO_MDL": false,
+    "DONT_EXPORT_EXISTING_TEXTURES": false,
+    "FORCE_DDS_CONVERSION": true,
+    "EXPAND_ALL": false
+}
